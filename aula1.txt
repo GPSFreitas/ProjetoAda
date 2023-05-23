@@ -1,0 +1,8 @@
+Aula 1 - Git e Versionamento
+  O que é Versionamento?
+      sao as versoes do projeto
+     Registro de mudanças, onde permite voltar caso aconteca algum erro
+     Desenvolvimento de codigo em colaboração
+  
+  o que é o Git?
+      É um sistema de versionamento de codigo e tambem salva uma referência do momento
